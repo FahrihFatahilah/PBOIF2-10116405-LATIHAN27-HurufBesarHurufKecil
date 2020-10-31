@@ -16,14 +16,7 @@ import java.util.Scanner;
  */
 public class HurufBesarHurufKecil {
 
-    /**
-     * @param args the command line arguments
-     * KELAS : PBO 2
-     * NIM : 10116415
-     * Deskripsi program: program ini berisi program untuk menampilkan 
-     * Huruf besar huruf kecil
- 
-     */
+   
     public static void main(String[] args) {
         // TODO code application logic here
  String Kalimat;
